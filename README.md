@@ -15,4 +15,4 @@ The repository contains the following files:
 ## Running the Code
 To run the code in the Jupyter Notebook, you'll need to install several Python libraries, including pandas, and altair. You can install these libraries using pip or conda. Once you have the libraries installed, you can open the Jupyter Notebook and run the cells to reproduce the analysis.
 ## Output
-To view the rendered output, please click [here](https://pages.github.com/)
+To view the rendered output, please click [here] ([https://pages.github.com/](https://github.com/PriyankaGuliani/EDA_of_disney_dataset/blob/4e5d2eb42bf0eef612cb3e16c2dbf909088fa1c3/Disney_analysis.ipynb)https://github.com/PriyankaGuliani/EDA_of_disney_dataset/blob/4e5d2eb42bf0eef612cb3e16c2dbf909088fa1c3/Disney_analysis.ipynb)
