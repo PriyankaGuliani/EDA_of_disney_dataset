@@ -1,4 +1,4 @@
-# EDA_of_disney_dataset
+# EDA of Disney Dataset
 ## Exploratory Data Analysis of the Disney datasets
 This notebook will be showing some exploratory data analysis for the DISNEY dataset located at https://data.world/kgarrett/disney-character-success-00-16.
 ## Question(s) of interests
@@ -12,3 +12,7 @@ The repository contains the following files:
 * data/disney_movies_total_gross.csv: a CSV file containing the raw data used for the analysis.
 * data/disney_revenue_1991-2016.csv:  a CSV file containing the raw data used for the analysis.
 * README.md: this file.
+## Running the Code
+To run the code in the Jupyter Notebook, you'll need to install several Python libraries, including pandas, and altair. You can install these libraries using pip or conda. Once you have the libraries installed, you can open the Jupyter Notebook and run the cells to reproduce the analysis.
+## Output
+To view the rendered output, please click [here](https://pages.github.com/)
